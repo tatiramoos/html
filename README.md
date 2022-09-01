@@ -1,4 +1,5 @@
 # Exercício em Grupo - IBM
+<<<<<<< HEAD
 Comandos Git básicos
 ## 1. git config
 Quando você está utilizando o Git pela primeira vez ou com uma instalação nova, em um projeto colaborativo, esse comando é fundamental para configurar sua identidade de usuário, inserindo informações como nome e email que serão empregadas em cada commit.
@@ -74,3 +75,6 @@ $ git checkout <nome_do_branch>
 Também é possível combinar operações, criando e fazendo o checkout de um novo branch com um único comando:
 
 $ git checkout -b <nome_do_branch_novo>
+=======
+
+>>>>>>> 677753e5d278b731884f8e81449c7f4778e04642
