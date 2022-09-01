@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid rgb(209, 209, 209);
+ }
+ 
+ th, td {
+    border-bottom: 1px solid #ddd;
+}
+
