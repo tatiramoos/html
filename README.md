@@ -78,3 +78,4 @@ $ git checkout -b <nome_do_branch_novo>
 =======
 
 >>>>>>> 677753e5d278b731884f8e81449c7f4778e04642
+.
